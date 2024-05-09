@@ -15,7 +15,7 @@ public class atividade4 {
         sexo = b.next();
 
 
-//Para strings se usa equals, exemplo da atividade, comparação.
+//Para strings se usa equals, exemplo da atividade, comparação
 
 
     if (sexo.equals("Masculino")){
